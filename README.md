@@ -91,3 +91,27 @@ Commit your changes (git commit -m "Add feature-name").
 Push to the branch (git push origin feature-name).
 Open a pull request.
 License
+
+QUESTION 2
+# REST API for Product Management
+
+This project demonstrates a simple REST API for managing a product resource. It uses Flask for the backend and the `requests` library for client interaction.
+
+## Features
+- Create a new product (`POST /products`).
+- Retrieve a list of products (`GET /products`).
+
+---
+
+## Prerequisites
+- Python 3.8+
+- Flask
+
+---
+
+## Setup Instructions
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-repo/product-api.git
+cd product-api

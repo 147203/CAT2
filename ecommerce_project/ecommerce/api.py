@@ -34,3 +34,9 @@ def get_products():
 
 if __name__ == '__main__':
     app.run(debug=True)
+{
+    "name": "Laptop",
+    "description": "A powerful laptop",
+    "price": 1200.00
+}
+
